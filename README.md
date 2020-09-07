@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋, I'm Marshall.
+
+[<img height="32" width="32" src="https://marshall-ku.com/logo/logo.svg" />][website]
 
 <!--
 **marshall-ku/marshall-ku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[website]: https://marshall-ku.com
