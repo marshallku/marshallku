@@ -2,7 +2,7 @@
 
 [<img height="32" width="32" src="https://marshall-ku.com/logo/logo.svg" />][blog]
 
-<img src="https://media1.tenor.com/images/af95337f2a1c0652a4438fc218d802fa/tenor.gif?itemid=17046097" alt="안녕" />
+<img src="https://media1.tenor.com/images/50340633e2c05ad88e5cb4e60533baff/tenor.gif?itemid=8313849" alt="안녕" />
 
 <!--
 - 🔭 I’m currently working on ...
