@@ -44,11 +44,11 @@
 ### ✒️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [스크롤 등의 이벤트 최적화하기](https://marshall-ku.com/web/tips/%ec%8a%a4%ed%81%ac%eb%a1%a4-%eb%93%b1%ec%9d%98-%ec%9d%b4%eb%b2%a4%ed%8a%b8-%ec%b5%9c%ec%a0%81%ed%99%94%ed%95%98%ea%b8%b0)
 - [201026 블로그 제작일지](https://marshall-ku.com/web/log/201026-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
 - [가을](https://marshall-ku.com/gallery/%ea%b0%80%ec%9d%84)
 - [webm을 활용해 투명한 동영상 만들기](https://marshall-ku.com/web/tips/webm%ec%9d%84-%ed%99%9c%ec%9a%a9%ed%95%b4-%ed%88%ac%eb%aa%85%ed%95%9c-%eb%8f%99%ec%98%81%ec%83%81-%eb%a7%8c%eb%93%a4%ea%b8%b0)
 - [블로그 10주년](https://marshall-ku.com/notice/%eb%b8%94%eb%a1%9c%ea%b7%b8-10%ec%a3%bc%eb%85%84)
-- [:focus-visible로 접근성 높이기](https://marshall-ku.com/web/tips/focus-visible%eb%a1%9c-%ec%a0%91%ea%b7%bc%ec%84%b1-%eb%86%92%ec%9d%b4%ea%b8%b0)
 <!-- BLOG-POST-LIST:END -->
 
 ### ✒️ Recent Github Activities
