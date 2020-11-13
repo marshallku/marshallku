@@ -55,11 +55,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#1](https://github.com/CodyHouse/ink-transition-effect/pull/1) in [CodyHouse/ink-transition-effect](https://github.com/CodyHouse/ink-transition-effect)
-2. 🎉 Merged PR [#1](https://github.com/marshall-ku/twice-logo-background/pull/1) in [marshall-ku/twice-logo-background](https://github.com/marshall-ku/twice-logo-background)
-3. 🎉 Merged PR [#1](https://github.com/marshall-ku/background-attachment-fixed-for-mobile/pull/1) in [marshall-ku/background-attachment-fixed-for-mobile](https://github.com/marshall-ku/background-attachment-fixed-for-mobile)
-4. 🎉 Merged PR [#1](https://github.com/marshall-ku/iframe-sticker/pull/1) in [marshall-ku/iframe-sticker](https://github.com/marshall-ku/iframe-sticker)
-5. 🎉 Merged PR [#1](https://github.com/marshall-ku/about-twice/pull/1) in [marshall-ku/about-twice](https://github.com/marshall-ku/about-twice)
+1. 🎉 Merged PR [#3](https://github.com/marshall-ku/About-IU/pull/3) in [marshall-ku/About-IU](https://github.com/marshall-ku/About-IU)
+2. ❌ Closed PR [#1](https://github.com/CodyHouse/ink-transition-effect/pull/1) in [CodyHouse/ink-transition-effect](https://github.com/CodyHouse/ink-transition-effect)
+3. 🎉 Merged PR [#1](https://github.com/marshall-ku/twice-logo-background/pull/1) in [marshall-ku/twice-logo-background](https://github.com/marshall-ku/twice-logo-background)
+4. 🎉 Merged PR [#1](https://github.com/marshall-ku/background-attachment-fixed-for-mobile/pull/1) in [marshall-ku/background-attachment-fixed-for-mobile](https://github.com/marshall-ku/background-attachment-fixed-for-mobile)
+5. 🎉 Merged PR [#1](https://github.com/marshall-ku/iframe-sticker/pull/1) in [marshall-ku/iframe-sticker](https://github.com/marshall-ku/iframe-sticker)
  <!--END_SECTION:activity-->
 
 [blog]: https://marshall-ku.com
