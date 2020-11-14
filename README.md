@@ -44,11 +44,11 @@
 ### ✒️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [무작정 다녀온 강원도](https://marshall-ku.com/gallery/%eb%ac%b4%ec%9e%91%ec%a0%95-%eb%8b%a4%eb%85%80%ec%98%a8-%ea%b0%95%ec%9b%90%eb%8f%84)
 - [유저 저장 방식이 변경됩니다!](https://marshall-ku.com/notice/%ec%9c%a0%ec%a0%80-%ec%a0%80%ec%9e%a5-%eb%b0%a9%ec%8b%9d%ec%9d%b4-%eb%b3%80%ea%b2%bd%eb%90%a9%eb%8b%88%eb%8b%a4)
 - [201104 이것저것 제작일지](https://marshall-ku.com/web/log/201104-%ec%9d%b4%ea%b2%83%ec%a0%80%ea%b2%83-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
 - [스크롤 등의 이벤트 최적화하기](https://marshall-ku.com/web/tips/%ec%8a%a4%ed%81%ac%eb%a1%a4-%eb%93%b1%ec%9d%98-%ec%9d%b4%eb%b2%a4%ed%8a%b8-%ec%b5%9c%ec%a0%81%ed%99%94%ed%95%98%ea%b8%b0)
 - [201026 블로그 제작일지](https://marshall-ku.com/web/log/201026-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
-- [가을](https://marshall-ku.com/gallery/%ea%b0%80%ec%9d%84)
 <!-- BLOG-POST-LIST:END -->
 
 ### ✒️ Recent Github Activities
