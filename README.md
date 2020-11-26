@@ -44,11 +44,11 @@
 ### ✒️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GIF / MP4 변환기](https://marshall-ku.com/work/web-application/gif-mp4-%eb%b3%80%ed%99%98%ea%b8%b0)
 - [디스코드 아이유 봇 사용 서버 100개 돌파](https://marshall-ku.com/notice/%eb%94%94%ec%8a%a4%ec%bd%94%eb%93%9c-%ec%95%84%ec%9d%b4%ec%9c%a0-%eb%b4%87-%ec%82%ac%ec%9a%a9-%ec%84%9c%eb%b2%84-100%ea%b0%9c-%eb%8f%8c%ed%8c%8c)
 - [브라우저에서 GIF / MP4 변환하기](https://marshall-ku.com/web/tips/%eb%b8%8c%eb%9d%bc%ec%9a%b0%ec%a0%80%ec%97%90%ec%84%9c-gif-mp4-%eb%b3%80%ed%99%98%ed%95%98%ea%b8%b0)
 - [무작정 다녀온 강원도](https://marshall-ku.com/gallery/%eb%ac%b4%ec%9e%91%ec%a0%95-%eb%8b%a4%eb%85%80%ec%98%a8-%ea%b0%95%ec%9b%90%eb%8f%84)
 - [유저 저장 방식이 변경됩니다!](https://marshall-ku.com/notice/%ec%9c%a0%ec%a0%80-%ec%a0%80%ec%9e%a5-%eb%b0%a9%ec%8b%9d%ec%9d%b4-%eb%b3%80%ea%b2%bd%eb%90%a9%eb%8b%88%eb%8b%a4)
-- [201104 이것저것 제작일지](https://marshall-ku.com/web/log/201104-%ec%9d%b4%ea%b2%83%ec%a0%80%ea%b2%83-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
 <!-- BLOG-POST-LIST:END -->
 
 ### ✒️ Recent Github Activities
