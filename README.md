@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Marshall.
 
-[<img width="137.36" height="37.1" src="https://marshall-ku.github.io/marshall-ku/assets/images/blog.svg" />][blog]
+[<img width="85" height="23" src="https://marshall-ku.github.io/marshall-ku/assets/images/blog.svg" />][blog]
 
 <img src="https://media1.tenor.com/images/50340633e2c05ad88e5cb4e60533baff/tenor.gif?itemid=8313849" alt="안녕" />
 
