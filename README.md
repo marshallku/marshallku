@@ -41,11 +41,11 @@
 
 <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/><img src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
 
-<br />
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marshall-ku&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
+---
 
 ### ✒️ Recent Blog Posts
 
