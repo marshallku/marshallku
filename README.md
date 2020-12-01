@@ -50,12 +50,11 @@
 ### ✒️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
--   [워드프레스 PHP 8.0 충돌](https://marshall-ku.com/web/%ec%9b%8c%eb%93%9c%ed%94%84%eb%a0%88%ec%8a%a4-php-8-0-%ec%b6%a9%eb%8f%8c)
--   [GIF / MP4 변환기](https://marshall-ku.com/work/web-application/gif-mp4-%eb%b3%80%ed%99%98%ea%b8%b0)
--   [디스코드 아이유 봇 사용 서버 100개 돌파](https://marshall-ku.com/notice/%eb%94%94%ec%8a%a4%ec%bd%94%eb%93%9c-%ec%95%84%ec%9d%b4%ec%9c%a0-%eb%b4%87-%ec%82%ac%ec%9a%a9-%ec%84%9c%eb%b2%84-100%ea%b0%9c-%eb%8f%8c%ed%8c%8c)
--   [브라우저에서 GIF / MP4 변환하기](https://marshall-ku.com/web/tips/%eb%b8%8c%eb%9d%bc%ec%9a%b0%ec%a0%80%ec%97%90%ec%84%9c-gif-mp4-%eb%b3%80%ed%99%98%ed%95%98%ea%b8%b0)
--   [무작정 다녀온 강원도](https://marshall-ku.com/gallery/%eb%ac%b4%ec%9e%91%ec%a0%95-%eb%8b%a4%eb%85%80%ec%98%a8-%ea%b0%95%ec%9b%90%eb%8f%84)
+- [201130 블로그 제작일지](https://marshall-ku.com/web/log/201130-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
+- [워드프레스 PHP 8.0 충돌](https://marshall-ku.com/web/%ec%9b%8c%eb%93%9c%ed%94%84%eb%a0%88%ec%8a%a4-php-8-0-%ec%b6%a9%eb%8f%8c)
+- [GIF / MP4 변환기](https://marshall-ku.com/work/web-application/gif-mp4-%eb%b3%80%ed%99%98%ea%b8%b0)
+- [디스코드 아이유 봇 사용 서버 100개 돌파](https://marshall-ku.com/notice/%eb%94%94%ec%8a%a4%ec%bd%94%eb%93%9c-%ec%95%84%ec%9d%b4%ec%9c%a0-%eb%b4%87-%ec%82%ac%ec%9a%a9-%ec%84%9c%eb%b2%84-100%ea%b0%9c-%eb%8f%8c%ed%8c%8c)
+- [브라우저에서 GIF / MP4 변환하기](https://marshall-ku.com/web/tips/%eb%b8%8c%eb%9d%bc%ec%9a%b0%ec%a0%80%ec%97%90%ec%84%9c-gif-mp4-%eb%b3%80%ed%99%98%ed%95%98%ea%b8%b0)
 <!-- BLOG-POST-LIST:END -->
 
 [blog]: https://marshall-ku.com
