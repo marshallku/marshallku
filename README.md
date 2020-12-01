@@ -58,15 +58,4 @@
 -   [무작정 다녀온 강원도](https://marshall-ku.com/gallery/%eb%ac%b4%ec%9e%91%ec%a0%95-%eb%8b%a4%eb%85%80%ec%98%a8-%ea%b0%95%ec%9b%90%eb%8f%84)
 <!-- BLOG-POST-LIST:END -->
 
-### ✒️ Recent Github Activities
-
-<!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#3](https://github.com/marshall-ku/About-IU/pull/3) in [marshall-ku/About-IU](https://github.com/marshall-ku/About-IU)
-2. ❌ Closed PR [#1](https://github.com/CodyHouse/ink-transition-effect/pull/1) in [CodyHouse/ink-transition-effect](https://github.com/CodyHouse/ink-transition-effect)
-3. 🎉 Merged PR [#1](https://github.com/marshall-ku/twice-logo-background/pull/1) in [marshall-ku/twice-logo-background](https://github.com/marshall-ku/twice-logo-background)
-4. 🎉 Merged PR [#1](https://github.com/marshall-ku/background-attachment-fixed-for-mobile/pull/1) in [marshall-ku/background-attachment-fixed-for-mobile](https://github.com/marshall-ku/background-attachment-fixed-for-mobile)
-5. 🎉 Merged PR [#1](https://github.com/marshall-ku/iframe-sticker/pull/1) in [marshall-ku/iframe-sticker](https://github.com/marshall-ku/iframe-sticker)
- <!--END_SECTION:activity-->
-
 [blog]: https://marshall-ku.com
