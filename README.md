@@ -50,11 +50,11 @@
 ### ✒️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [워드프레스 5.6, PHP 8.0 업데이트](https://marshall-ku.com/web/log/%ec%9b%8c%eb%93%9c%ed%94%84%eb%a0%88%ec%8a%a4-5-6-php-8-0-%ec%97%85%eb%8d%b0%ec%9d%b4%ed%8a%b8)
 - [201207 블로그 제작일지](https://marshall-ku.com/web/log/201207-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
 - [Lovely Pink 스킨 2.1.0 업데이트](https://marshall-ku.com/web/log/lovely-pink-%ec%8a%a4%ed%82%a8-2-1-0-%ec%97%85%eb%8d%b0%ec%9d%b4%ed%8a%b8)
 - [바닐라 자바스크립트로 SPA 만든 과정과 후기](https://marshall-ku.com/web/log/%eb%b0%94%eb%8b%90%eb%9d%bc-%ec%9e%90%eb%b0%94%ec%8a%a4%ed%81%ac%eb%a6%bd%ed%8a%b8%eb%a1%9c-spa-%eb%a7%8c%eb%93%a0-%ea%b3%bc%ec%a0%95%ea%b3%bc-%ed%9b%84%ea%b8%b0)
 - [201130 블로그 제작일지](https://marshall-ku.com/web/log/201130-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
-- [워드프레스 PHP 8.0 충돌](https://marshall-ku.com/web/%ec%9b%8c%eb%93%9c%ed%94%84%eb%a0%88%ec%8a%a4-php-8-0-%ec%b6%a9%eb%8f%8c)
 <!-- BLOG-POST-LIST:END -->
 
 [blog]: https://marshall-ku.com
