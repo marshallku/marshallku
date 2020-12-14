@@ -2,6 +2,8 @@
 
 [<img width="100" src="https://marshall-ku.github.io/marshall-ku/assets/images/blog.svg" />][blog]
 
+![탱구](https://marshall-ku.github.io/marshall-ku/assets/images/taengoo.gif)
+
 <video autoplay loop muted playsinline width="200">
     <source src="https://zippy.gfycat.com/WarmMerryGardensnake.webm" type="video/webm">
     <source src="https://zippy.gfycat.com/WarmMerryGardensnake.mp4" type="video/mp4">
