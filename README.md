@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Marshall.
 
-[<img width="100" src="https://marshall-ku.github.io/marshall-ku/assets/images/blog.svg" />][blog]
+[<img width="100" src="https://marshall-ku.github.io/marshall-ku/assets/images/blog.svg" />My blog][blog]
 
 ![탱구](https://marshall-ku.github.io/marshall-ku/assets/images/taengoo.gif)
 
