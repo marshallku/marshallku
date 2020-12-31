@@ -50,11 +50,11 @@
 ### ✒️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2020년 결산](https://marshall-ku.com/notice/2020%eb%85%84-%ea%b2%b0%ec%82%b0)
 - [201226 잡다한 제작일지](https://marshall-ku.com/web/log/201226-%ec%9e%a1%eb%8b%a4%ed%95%9c-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
 - [워드프레스 댓글 템플릿 만들기](https://marshall-ku.com/web/tips/%ec%9b%8c%eb%93%9c%ed%94%84%eb%a0%88%ec%8a%a4-%eb%8c%93%ea%b8%80-%ed%85%9c%ed%94%8c%eb%a6%bf-%eb%a7%8c%eb%93%a4%ea%b8%b0)
 - [PWA를 스토어에 출시하기](https://marshall-ku.com/web/tips/pwa%eb%a5%bc-%ec%8a%a4%ed%86%a0%ec%96%b4%ec%97%90-%ec%b6%9c%ec%8b%9c%ed%95%98%ea%b8%b0)
 - [PWA의 Manifest 작성하기](https://marshall-ku.com/web/tips/pwa%ec%9d%98-manifest-%ec%9e%91%ec%84%b1%ed%95%98%ea%b8%b0)
-- [워드프레스 5.6, PHP 8.0 업데이트](https://marshall-ku.com/web/log/%ec%9b%8c%eb%93%9c%ed%94%84%eb%a0%88%ec%8a%a4-5-6-php-8-0-%ec%97%85%eb%8d%b0%ec%9d%b4%ed%8a%b8)
 <!-- BLOG-POST-LIST:END -->
 
 [blog]: https://marshall-ku.com
