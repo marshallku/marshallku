@@ -50,7 +50,7 @@
 ### ✒️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [210108 잡다한 제작일지](https://marshall-ku.com/web/210108-%ec%9e%a1%eb%8b%a4%ed%95%9c-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
+- [210108 잡다한 제작일지](https://marshall-ku.com/web/log/210108-%ec%9e%a1%eb%8b%a4%ed%95%9c-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
 - [스크롤 애니메이션 가지고 놀기](https://marshall-ku.com/web/log/%ec%8a%a4%ed%81%ac%eb%a1%a4-%ec%95%a0%eb%8b%88%eb%a9%94%ec%9d%b4%ec%85%98-%ea%b0%80%ec%a7%80%ea%b3%a0-%eb%86%80%ea%b8%b0)
 - [2020년 결산](https://marshall-ku.com/notice/2020%eb%85%84-%ea%b2%b0%ec%82%b0)
 - [201226 잡다한 제작일지](https://marshall-ku.com/web/log/201226-%ec%9e%a1%eb%8b%a4%ed%95%9c-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
