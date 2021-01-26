@@ -1,8 +1,8 @@
 ### Hi 👋, I'm Marshall.
 
-[<img width="100" src="https://marshall-ku.github.io/marshall-ku/assets/images/blog.svg" />][blog]
-
 ![탱구](https://marshall-ku.github.io/marshall-ku/assets/images/taengoo.gif)
+
+[<img width="100" src="https://marshall-ku.github.io/marshall-ku/assets/images/blog.svg" />][blog]
 
 <!--
 - 🔭 I’m currently working on ...
