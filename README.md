@@ -77,11 +77,11 @@
 ## ✒️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [210129 잡다한 제작일지](https://marshall-ku.com/web/log/210129-%ec%9e%a1%eb%8b%a4%ed%95%9c-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
 - [스도쿠 풀어주는 프로그램 만들기](https://marshall-ku.com/web/tips/%ec%8a%a4%eb%8f%84%ec%bf%a0-%ed%92%80%ec%96%b4%ec%a3%bc%eb%8a%94-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8-%eb%a7%8c%eb%93%a4%ea%b8%b0)
 - [210118 눈](https://marshall-ku.com/gallery/210118-%eb%88%88)
 - [캐시 서버 구축하기](https://marshall-ku.com/web/tips/%ec%ba%90%ec%8b%9c-%ec%84%9c%eb%b2%84-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0)
 - [WebP 업데이트](https://marshall-ku.com/web/log/webp-%ec%97%85%eb%8d%b0%ec%9d%b4%ed%8a%b8)
-- [210112 악마의 똥가루](https://marshall-ku.com/gallery/210112-%ec%95%85%eb%a7%88%ec%9d%98-%eb%98%a5%ea%b0%80%eb%a3%a8)
 <!-- BLOG-POST-LIST:END -->
 
 [blog]: https://marshall-ku.com
