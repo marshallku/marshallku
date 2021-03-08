@@ -77,11 +77,11 @@
 ## ✒️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [210308 블로그 제작일지](https://marshall-ku.com/web/log/210308-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
 - [이사 끝났습니다](https://marshall-ku.com/notice/%ec%9d%b4%ec%82%ac-%eb%81%9d%eb%82%ac%ec%8a%b5%eb%8b%88%eb%8b%a4)
 - [서버 이사 예정입니다](https://marshall-ku.com/notice/%ec%84%9c%eb%b2%84-%ec%9d%b4%ec%82%ac-%ec%98%88%ec%a0%95%ec%9e%85%eb%8b%88%eb%8b%a4)
 - [Smooth Zoom](https://marshall-ku.com/work/other/smooth-zoom)
 - [이미지 줌 라이브러리 제작일지](https://marshall-ku.com/web/log/%ec%9d%b4%eb%af%b8%ec%a7%80-%ec%a4%8c-%eb%9d%bc%ec%9d%b4%eb%b8%8c%eb%9f%ac%eb%a6%ac-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
-- [210205 블로그 제작일지](https://marshall-ku.com/web/log/210205-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
 <!-- BLOG-POST-LIST:END -->
 
 [blog]: https://marshall-ku.com
