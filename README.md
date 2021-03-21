@@ -4,7 +4,7 @@
 
 ## ✍️ Blog
 
-[<img width="100" src="https://marshall-ku.github.io/marshall-ku/assets/images/blog.svg" />][blog]\
+[<img width="100" src="https://marshall-ku.github.io/marshall-ku/assets/images/blog.svg" />][blog]
 [![rss](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://marshall-ku.com/feed)
 
 <!--
