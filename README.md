@@ -4,6 +4,9 @@
 
 ## ✍️ Blog
 
+[<img width="100" src="https://marshall-ku.github.io/marshall-ku/assets/images/blog-badge.svg" />][blog]
+[![rss](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://marshall-ku.com/feed)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
