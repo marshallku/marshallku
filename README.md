@@ -77,11 +77,11 @@
 ## ✒️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [구독 유저 데이터베이스 초기화](https://marshall-ku.com/notice/%ea%b5%ac%eb%8f%85-%ec%9c%a0%ec%a0%80-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b2%a0%ec%9d%b4%ec%8a%a4-%ec%b4%88%ea%b8%b0%ed%99%94)
 - [2021년의 봄](https://marshall-ku.com/gallery/2021%eb%85%84%ec%9d%98-%eb%b4%84)
 - [[CSS, JS] 노트, 원고지 만들기](https://marshall-ku.com/web/tips/css-js-%eb%85%b8%ed%8a%b8-%ec%9b%90%ea%b3%a0%ec%a7%80-%eb%a7%8c%eb%93%a4%ea%b8%b0)
 - [CSS Grid로 Masonry 레이아웃 만들기](https://marshall-ku.com/web/tips/css-grid%eb%a1%9c-masonry-%eb%a0%88%ec%9d%b4%ec%95%84%ec%9b%83-%eb%a7%8c%eb%93%a4%ea%b8%b0)
 - [210308 블로그 제작일지](https://marshall-ku.com/web/log/210308-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
-- [이사 끝났습니다](https://marshall-ku.com/notice/%ec%9d%b4%ec%82%ac-%eb%81%9d%eb%82%ac%ec%8a%b5%eb%8b%88%eb%8b%a4)
 <!-- BLOG-POST-LIST:END -->
 
 [blog]: https://marshall-ku.com
