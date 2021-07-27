@@ -77,11 +77,11 @@
 ## ✒️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React, Node.js를 이용한 영어 단어 공부 앱 제작기](https://marshall-ku.com/web/log/%ec%98%81%ec%96%b4-%eb%8b%a8%ec%96%b4-%ea%b3%b5%eb%b6%80-%ec%95%b1-%ec%a0%9c%ec%9e%91%ea%b8%b0)
 - [210603 블로그 제작일지](https://marshall-ku.com/web/log/210603-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
 - [210517 Smooth Zoom 제작일지](https://marshall-ku.com/web/log/210517-smooth-zoom-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
 - [생존신고](https://marshall-ku.com/chat/%ec%83%9d%ec%a1%b4%ec%8b%a0%ea%b3%a0)
 - [구독 유저 데이터베이스 초기화](https://marshall-ku.com/notice/%ea%b5%ac%eb%8f%85-%ec%9c%a0%ec%a0%80-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b2%a0%ec%9d%b4%ec%8a%a4-%ec%b4%88%ea%b8%b0%ed%99%94)
-- [2021년의 봄](https://marshall-ku.com/gallery/2021%eb%85%84%ec%9d%98-%eb%b4%84)
 <!-- BLOG-POST-LIST:END -->
 
 [blog]: https://marshall-ku.com
