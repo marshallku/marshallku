@@ -77,11 +77,11 @@
 ## ✒️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Online Syntax Highlighter 만들어보기](https://marshall-ku.com/web/log/online-syntax-highlighter-%eb%a7%8c%eb%93%a4%ec%96%b4%eb%b3%b4%ea%b8%b0)
 - [와룡공원 야경과 일출](https://marshall-ku.com/gallery/%ec%99%80%eb%a3%a1%ea%b3%b5%ec%9b%90-%ec%95%bc%ea%b2%bd%ea%b3%bc-%ec%9d%bc%ec%b6%9c)
 - [210826 블로그 제작일지](https://marshall-ku.com/web/log/210826-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
 - [React, Node.js를 이용한 영어 단어 공부 앱 제작기](https://marshall-ku.com/web/log/%ec%98%81%ec%96%b4-%eb%8b%a8%ec%96%b4-%ea%b3%b5%eb%b6%80-%ec%95%b1-%ec%a0%9c%ec%9e%91%ea%b8%b0)
 - [210603 블로그 제작일지](https://marshall-ku.com/web/log/210603-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
-- [210517 Smooth Zoom 제작일지](https://marshall-ku.com/web/log/210517-smooth-zoom-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
 <!-- BLOG-POST-LIST:END -->
 
 [blog]: https://marshall-ku.com
