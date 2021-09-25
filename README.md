@@ -77,7 +77,7 @@
 ## ✒️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [210924 블로그 제작일지](https://marshall-ku.com/web/210924-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
+- [210924 블로그 제작일지](https://marshall-ku.com/web/log/210924-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
 - [Online Syntax Highlighter 만들어보기](https://marshall-ku.com/web/log/online-syntax-highlighter-%eb%a7%8c%eb%93%a4%ec%96%b4%eb%b3%b4%ea%b8%b0)
 - [와룡공원 야경과 일출](https://marshall-ku.com/gallery/%ec%99%80%eb%a3%a1%ea%b3%b5%ec%9b%90-%ec%95%bc%ea%b2%bd%ea%b3%bc-%ec%9d%bc%ec%b6%9c)
 - [210826 블로그 제작일지](https://marshall-ku.com/web/log/210826-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
