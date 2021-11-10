@@ -77,11 +77,11 @@
 ## ✒️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2021 첫눈, 그리고 근황 잡담](https://marshall-ku.com/chat/2021-%ec%b2%ab%eb%88%88-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ea%b7%bc%ed%99%a9-%ec%9e%a1%eb%8b%b4)
 - [211110 GIF Converter 제작일지](https://marshall-ku.com/web/log/211110-gif-converter-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
 - [Canvas로 Dynamic Gradient 만들기](https://marshall-ku.com/web/tips/canvas%eb%a1%9c-dynamic-gradient-%eb%a7%8c%eb%93%a4%ea%b8%b0)
 - [210924 블로그 제작일지](https://marshall-ku.com/web/log/210924-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
 - [Online Syntax Highlighter 만들어보기](https://marshall-ku.com/web/log/online-syntax-highlighter-%eb%a7%8c%eb%93%a4%ec%96%b4%eb%b3%b4%ea%b8%b0)
-- [와룡공원 야경과 일출](https://marshall-ku.com/gallery/%ec%99%80%eb%a3%a1%ea%b3%b5%ec%9b%90-%ec%95%bc%ea%b2%bd%ea%b3%bc-%ec%9d%bc%ec%b6%9c)
 <!-- BLOG-POST-LIST:END -->
 
 [blog]: https://marshall-ku.com
