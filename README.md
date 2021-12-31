@@ -66,11 +66,11 @@
 ## ✒️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2021년 결산](https://marshall-ku.com/notice/2021%eb%85%84-%ea%b2%b0%ec%82%b0)
 - [엘리스 sw트랙 팀 프로젝트 중간 회고](https://marshall-ku.com/web/log/%ec%97%98%eb%a6%ac%ec%8a%a4-sw%ed%8a%b8%eb%9e%99-%ed%8c%80-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%a4%91%ea%b0%84-%ed%9a%8c%ea%b3%a0)
 - [CSS로 기기 파악하기](https://marshall-ku.com/web/tips/css%eb%a1%9c-%ea%b8%b0%ea%b8%b0-%ed%8c%8c%ec%95%85%ed%95%98%ea%b8%b0)
 - [2021 첫눈, 그리고 근황 잡담](https://marshall-ku.com/chat/2021-%ec%b2%ab%eb%88%88-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ea%b7%bc%ed%99%a9-%ec%9e%a1%eb%8b%b4)
 - [211110 GIF Converter 제작일지](https://marshall-ku.com/web/log/211110-gif-converter-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
-- [Canvas로 Dynamic Gradient 만들기](https://marshall-ku.com/web/tips/canvas%eb%a1%9c-dynamic-gradient-%eb%a7%8c%eb%93%a4%ea%b8%b0)
 <!-- BLOG-POST-LIST:END -->
 
 [blog]: https://marshall-ku.com
