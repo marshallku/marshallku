@@ -61,7 +61,7 @@
 
 ## 💜 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marshall-ku&langs_count=10&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marshallku&langs_count=10&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✒️ Recent Blog Posts
 
@@ -73,4 +73,4 @@
 - [211110 GIF Converter 제작일지](https://marshallku.com/web/log/211110-gif-converter-%ec%a0%9c%ec%9e%91%ec%9d%bc%ec%a7%80)
 <!-- BLOG-POST-LIST:END -->
 
-[blog]: https://marshall-ku.com
+[blog]: https://marshallku.com
