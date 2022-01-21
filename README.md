@@ -1,11 +1,11 @@
 # Hi 👋, I'm Marshall.
 
-![탱구](https://marshall-ku.github.io/marshall-ku/assets/images/taengoo.gif)![윈터](https://marshall-ku.github.io/marshall-ku/assets/images/winter.gif)
+![탱구](https://marshallku.github.io/marshallku/assets/images/taengoo.gif)![윈터](https://marshallku.github.io/marshallku/assets/images/winter.gif)
 
 ## ✍️ Blog
 
-[<img width="100" src="https://marshall-ku.github.io/marshall-ku/assets/images/blog-badge.svg" />][blog]
-[![rss](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://marshall-ku.com/feed)
+[<img width="100" src="https://marshallku.github.io/marshallku/assets/images/blog-badge.svg" />][blog]
+[![rss](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://marshallku.com/feed)
 
 ## 📚 Technologies
 
