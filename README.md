@@ -66,11 +66,11 @@
 ## ✒️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2차 프로젝트 시작하기 직전에야 쓰는 1차 프로젝트 회고](https://marshallku.com/web/log/2%ec%b0%a8-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%8b%9c%ec%9e%91%ed%95%98%ea%b8%b0-%ec%a7%81%ec%a0%84%ec%97%90%ec%95%bc-%ec%93%b0%eb%8a%94-1%ec%b0%a8-%ed%9a%8c%ea%b3%a0)
 - [도메인 변경](https://marshallku.com/notice/%eb%8f%84%eb%a9%94%ec%9d%b8-%eb%b3%80%ea%b2%bd)
 - [2021년 결산](https://marshallku.com/notice/2021%eb%85%84-%ea%b2%b0%ec%82%b0)
 - [엘리스 sw트랙 팀 프로젝트 중간 회고](https://marshallku.com/web/log/%ec%97%98%eb%a6%ac%ec%8a%a4-sw%ed%8a%b8%eb%9e%99-%ed%8c%80-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%a4%91%ea%b0%84-%ed%9a%8c%ea%b3%a0)
 - [CSS로 기기 파악하기](https://marshallku.com/web/tips/css%eb%a1%9c-%ea%b8%b0%ea%b8%b0-%ed%8c%8c%ec%95%85%ed%95%98%ea%b8%b0)
-- [2021 첫눈, 그리고 근황 잡담](https://marshallku.com/chat/2021-%ec%b2%ab%eb%88%88-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ea%b7%bc%ed%99%a9-%ec%9e%a1%eb%8b%b4)
 <!-- BLOG-POST-LIST:END -->
 
 [blog]: https://marshallku.com
