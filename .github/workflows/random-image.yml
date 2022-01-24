@@ -10,4 +10,4 @@ jobs:
         steps:
             - uses: actions/checkout@v2
             - uses: actions/setup-node@v2
-            - run: node ./scripts/random-image.js
+            - run: node ./scripts/random-image.js && git add . && git commit -m "Update image" && git push -u origin master
