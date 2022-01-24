@@ -14,8 +14,7 @@ jobs:
             # Code from https://stackoverflow.com/a/58393457
             - name: load to github
               run: |
-                  git config --global user.name 'marshallku'
-                  git config --global user.email 'marshallku@users.noreply.github.com'
+                  git config --global user.name 'image-updater'
                   git remote set-url origin https://x-access-token:${{ secrets.TOKEN }}@github.com/${{ github.repository }}
                   git commit -am "Update image"
                   git push
