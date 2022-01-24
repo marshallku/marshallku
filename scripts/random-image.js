@@ -13,6 +13,4 @@ const data = fs
         `images/winter${Math.floor(Math.random() * 5) + 1}`
     );
 
-console.log(data);
-
 fs.writeFileSync(FILE_TO_UPDATE, data, "utf-8");
