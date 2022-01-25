@@ -10,7 +10,8 @@ jobs:
         steps:
             - uses: actions/checkout@v2
             - uses: actions/setup-node@v2
-            - run: node ./scripts/random-image.js
+            - run: npm ci
+            - run: node run random-image
             # Code from https://stackoverflow.com/a/58393457
             - name: load to github
               run: |

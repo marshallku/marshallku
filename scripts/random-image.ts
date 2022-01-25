@@ -1,11 +1,11 @@
-const fs = require("fs");
-const path = require("path");
+import { readFileSync, writeFileSync } from "fs";
+import { dirname, resolve } from "path";
+import { fileURLToPath } from "url";
 
-const FILE_TO_UPDATE = path.resolve(__dirname, "../README.md");
+const FILE_TO_UPDATE = resolve(__dirname, "../README.md");
 const TAENGOO_MAX = 9;
 const WINTER_MAX = 9;
-const data = fs
-    .readFileSync(FILE_TO_UPDATE, "utf-8")
+const data = readFileSync(FILE_TO_UPDATE, "utf-8")
     .replace(
         /images\/taengoo[0-9]+/,
         `images/taengoo${Math.floor(Math.random() * TAENGOO_MAX) + 1}`
@@ -15,4 +15,4 @@ const data = fs
         `images/winter${Math.floor(Math.random() * WINTER_MAX) + 1}`
     );
 
-fs.writeFileSync(FILE_TO_UPDATE, data, "utf-8");
+writeFileSync(FILE_TO_UPDATE, data, "utf-8");
