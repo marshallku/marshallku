@@ -1,6 +1,6 @@
 # Hi 👋, I'm Marshall.
 
-![탱구](https://marshallku.github.io/marshallku/assets/images/taengoo7.gif)![윈터](https://marshallku.github.io/marshallku/assets/images/winter6.gif)
+<img src="https://marshallku.github.io/marshallku/assets/images/taengoo7.gif" alt="탱구" height="150" /><img src="https://marshallku.github.io/marshallku/assets/images/winter6.gif" alt="윈터" height="150" />
 
 ## ✍️ Blog
 
