@@ -1,0 +1,22 @@
+name: Set random image in README
+on:
+    schedule:
+        - cron: "0 15 * * *"
+    workflow_dispatch:
+jobs:
+    update-readme-image:
+        name: Update greeting image
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+            - run: sudo apt install g++ -y
+            - run: g++ -o tmp ./scripts/random-image.cpp
+            - run: ./tmp
+            - run: rm ./tmp
+            # Code from https://stackoverflow.com/a/58393457
+            - name: load to github
+              run: |
+                  git config --global user.name 'image-updater'
+                  git remote set-url origin https://x-access-token:${{ secrets.TOKEN }}@github.com/${{ github.repository }}
+                  git commit -am "Update image"
+                  git push
