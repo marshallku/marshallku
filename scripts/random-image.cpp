@@ -1,12 +1,12 @@
+#include <time.h>
+
 #include <iostream>
 #include <fstream>
 #include <random>
-#include <string>
+#include <random>
 
-#include <time.h>
-
-#define FILE_TO_REPLACE "../README.md"
-#define FILE_TO_WRITE "../README.bak.md"
+#define FILE_TO_REPLACE "README.md"
+#define FILE_TO_WRITE "README.bak.md"
 #define TAENGOO_MAX 9
 #define WINTER_MAX 9
 
@@ -14,13 +14,14 @@ using namespace std;
 
 int main()
 {
-    srand((unsigned)time(NULL));
+    random_device rd;
+    mt19937 gen(rd());
     string filePath = FILE_TO_REPLACE;
     string tmpPath = FILE_TO_WRITE;
     ifstream openFile(filePath.data());
     ofstream writeFile(tmpPath.data());
-    int taeng_random = (rand() % TAENGOO_MAX) + 1;
-    int winter_random = (rand() % WINTER_MAX) + 1;
+    uniform_int_distribution<int> taeng_random(1, TAENGOO_MAX);
+    uniform_int_distribution<int> winter_random(1, WINTER_MAX);
 
     if (!openFile || !writeFile)
     {
@@ -34,9 +35,9 @@ int main()
         if (line.rfind("![탱구]", 0) == 0)
         {
             line = "![탱구](https://marshallku.github.io/marshallku/assets/images/taengoo";
-            line += to_string(taeng_random);
+            line += to_string(taeng_random(gen));
             line += ".gif)![윈터](https://marshallku.github.io/marshallku/assets/images/winter";
-            line += to_string(winter_random);
+            line += to_string(winter_random(gen));
             line += ".gif)";
             cout << line << endl;
         }
