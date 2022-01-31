@@ -6,8 +6,8 @@
 
 #define FILE_TO_REPLACE "README.md"
 #define FILE_TO_WRITE "README.bak.md"
-#define TAENGOO_MAX 9
-#define WINTER_MAX 9
+#define TAENGOO_MAX 18
+#define WINTER_MAX 23
 
 using namespace std;
 
