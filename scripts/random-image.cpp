@@ -33,12 +33,8 @@ int main()
     {
         if (line.find("alt=\"탱구\"", 0) != string::npos)
         {
-            line = "<img src=\"https://marshallku.github.io/marshallku/assets/images/taengoo";
-            line += to_string(taeng_random(gen));
-            line += ".gif\" alt=\"탱구\" height=\"150\" /><img src=\"https://marshallku.github.io/marshallku/assets/images/winter";
-            line += to_string(winter_random(gen));
-            line += ".gif\" alt=\"윈터\" height=\"150\" />";
-            cout << line << endl;
+            line.reserve(256);
+            line = "<img src=\"https://marshallku.github.io/marshallku/assets/images/taengoo" + to_string(taeng_random(gen)) + ".gif\" alt=\"탱구\" height=\"150\" /><img src=\"https://marshallku.github.io/marshallku/assets/images/winter" + to_string(winter_random(gen)) + ".gif\" alt=\"윈터\" height=\"150\" />";
         }
 
         line += "\n";
