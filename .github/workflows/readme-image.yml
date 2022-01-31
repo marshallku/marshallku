@@ -9,10 +9,12 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
-            - run: sudo apt install g++ -y
-            - run: g++ -o tmp ./scripts/random-image.cpp
-            - run: ./tmp
-            - run: rm ./tmp
+            - name: Install g++
+              run: sudo apt install g++ -y
+            - name: Build and execute
+              run: g++ -o tmp ./scripts/random-image.cpp && ./tmp
+            - name: Remove file
+              run: rm ./tmp
             # Code from https://stackoverflow.com/a/58393457
             - name: load to github
               run: |
