@@ -4,7 +4,7 @@
 
 ## ✍️ Blog
 
-[<img width="100" src="https://marshallku.github.io/marshallku/assets/images/blog-badge.svg" />][blog]
+[<img width="100" src="https://marshallku.github.io/marshallku/assets/icons/blog-badge.svg" />][blog]
 [![rss](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://marshallku.com/feed)
 
 ## 📚 Technologies
