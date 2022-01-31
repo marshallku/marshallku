@@ -24,7 +24,7 @@ int main()
 
     if (!openFile || !writeFile)
     {
-        cout << "Can't open files" << endl;
+        printf("Can't open files\n");
         return 1;
     }
 
@@ -37,8 +37,7 @@ int main()
             line = "<img src=\"https://marshallku.github.io/marshallku/assets/images/taengoo" + to_string(taeng_random(gen)) + ".gif\" alt=\"탱구\" height=\"150\" /><img src=\"https://marshallku.github.io/marshallku/assets/images/winter" + to_string(winter_random(gen)) + ".gif\" alt=\"윈터\" height=\"150\" />";
         }
 
-        line += "\n";
-        writeFile << line;
+        writeFile << line << "\n";
     }
 
     writeFile.close();
