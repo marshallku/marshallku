@@ -5,7 +5,7 @@ while IFS= read -r line
 do
 	if grep -q alt=\"탱구\" <<< $line 
 	then
-		echo "<img src=\"https://marshallku.github.io/marshallku/assets/images/taengoo$taengoo_index.gif\" alt=\"탱구\" height=\"150\" /><img src=\"https://marshallku.github.io/marshallku/assets/images/winter$winter_index.gif\" alt=\"윈터\" height=\"150\" />"
+		echo $line | perl -pe "s/taengoo[0-9]+/taengoo$taengoo_index/g and s/winter[0-9]+/winter$winter_index/g"
 	else
 		echo $line
 	fi
