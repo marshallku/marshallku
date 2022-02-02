@@ -9,6 +9,8 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
+            - name: Set permission
+              run: chmod +x ./scripts/random-image.sh
             - name: Run script
               run: ./scripts/random-image.sh
             # Code from https://stackoverflow.com/a/58393457
