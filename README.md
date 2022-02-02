@@ -1,6 +1,8 @@
 # Hi 👋, I'm Marshall.
 
-<img src="https://marshallku.github.io/marshallku/assets/images/taengoo5.gif" alt="탱구" height="150" /><img src="https://marshallku.github.io/marshallku/assets/images/winter23.gif" alt="윈터" height="150" />
+<img src="https://marshallku.github.io/marshallku/assets/images/taengoo10.gif" alt="탱구" height="150" /><img src="https://marshallku.github.io/marshallku/assets/images/winter21.gif" alt="윈터" height="150" />
+
+![Last Modified](<https://img.shields.io/badge/Last%20Modified-2022/02/02%2018:17%20(KST)-%23121212?style=flat>)
 
 ## ✍️ Blog
 
