@@ -4,12 +4,13 @@
 
 ![Last Modified](<https://img.shields.io/badge/Last%20Modified-2022/02/02%2018:17%20(KST)-%23121212?style=flat>)
 
-## ✍️ Blog
-
-[<img width="100" src="https://marshallku.github.io/marshallku/assets/icons/blog-badge.svg" />][blog]
-[![rss](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://marshallku.com/feed)
+[<img height="28" src="https://marshallku.github.io/marshallku/assets/icons/blog-badge.svg" />][blog]
+[![mail](https://img.shields.io/badge/MAIL-F9E000?style=for-the-badge&logo=GMAIL&logoColor=%23000000)](mailto:marshall@kakao.com)
 
 ## 📚 Technologies
+
+<details>
+    <summary>View</summary>
 
 ### Languages
 
@@ -44,9 +45,6 @@
 ### Tools
 
 ![vsc](https://img.shields.io/badge/vsc-005FED?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-### Design
-
 ![adobe photoshop](https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![adobe illustrator](https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
@@ -60,10 +58,12 @@
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+</details>
 
-## 💜 Most Used Languages
+## 💜 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marshallku&langs_count=10&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshallku&langs_count=8&layout=compact&theme=onedark" alt="Top Langs" height="185" />](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=marshallku&count_private=true&show_icons=true&theme=onedark" alt="Github stats" height="185" />
 
 ## ✒️ Recent Blog Posts
 
