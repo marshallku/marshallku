@@ -1,8 +1,8 @@
 # Hi 👋, I'm Marshall.
 
-<img src="https://marshallku.github.io/marshallku/assets/images/taengoo10.gif" alt="탱구" height="150" /><img src="https://marshallku.github.io/marshallku/assets/images/winter21.gif" alt="윈터" height="150" />
+<img src="https://marshallku.github.io/marshallku/assets/images/taengoo7.gif" alt="탱구" height="150" /><img src="https://marshallku.github.io/marshallku/assets/images/winter11.gif" alt="윈터" height="150" />
 
-![Last Modified](<https://img.shields.io/badge/Last%20Modified-2022/02/02%2018:17%20(KST)-%23121212?style=flat>)
+![Last Modified](<https://img.shields.io/badge/Last%20Modified-2022/02/03%2000:22%20(KST)-%23121212?style=flat>)
 
 [<img height="28" src="https://marshallku.github.io/marshallku/assets/icons/blog-badge.svg" />][blog]
 [![mail](https://img.shields.io/badge/MAIL-F9E000?style=for-the-badge&logo=GMAIL&logoColor=%23000000)](mailto:marshall@kakao.com)
@@ -10,7 +10,7 @@
 ## 📚 Technologies
 
 <details>
-    <summary>View</summary>
+<summary>View</summary>
 
 ### Languages
 
