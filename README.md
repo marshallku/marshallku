@@ -68,11 +68,11 @@
 ## ✒️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [README 업데이트 자동화 삽질기](https://marshallku.com/web/log/readme-%ec%97%85%eb%8d%b0%ec%9d%b4%ed%8a%b8-%ec%9e%90%eb%8f%99%ed%99%94-%ec%82%bd%ec%a7%88%ea%b8%b0)
 - [React 테스트 환경 구축하기](https://marshallku.com/web/tips/react-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ed%99%98%ea%b2%bd-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0)
 - [2차 프로젝트 시작하기 직전에야 쓰는 1차 프로젝트 회고](https://marshallku.com/web/log/2%ec%b0%a8-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%8b%9c%ec%9e%91%ed%95%98%ea%b8%b0-%ec%a7%81%ec%a0%84%ec%97%90%ec%95%bc-%ec%93%b0%eb%8a%94-1%ec%b0%a8-%ed%9a%8c%ea%b3%a0)
 - [도메인 변경](https://marshallku.com/notice/%eb%8f%84%eb%a9%94%ec%9d%b8-%eb%b3%80%ea%b2%bd)
 - [2021년 결산](https://marshallku.com/notice/2021%eb%85%84-%ea%b2%b0%ec%82%b0)
-- [엘리스 sw트랙 팀 프로젝트 중간 회고](https://marshallku.com/web/log/%ec%97%98%eb%a6%ac%ec%8a%a4-sw%ed%8a%b8%eb%9e%99-%ed%8c%80-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-%ec%a4%91%ea%b0%84-%ed%9a%8c%ea%b3%a0)
 <!-- BLOG-POST-LIST:END -->
 
 [blog]: https://marshallku.com
