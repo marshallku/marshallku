@@ -62,8 +62,8 @@
 
 ## 💜 Stats
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshallku&langs_count=8&layout=compact&theme=onedark" alt="Top Langs" height="185" />](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=marshallku&count_private=true&show_icons=true&theme=onedark" alt="Github stats" height="185" />
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshallku&langs_count=8&layout=compact&theme=onedark&hide_border=true" alt="Top Langs" height="185" />](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-readme-streak-stats.herokuapp.com/?user=marshallku&theme=onedark&border=00000000" alt="Github Streak" height="185" />](https://git.io/streak-stats)
 
 ## ✒️ Recent Blog Posts
 
