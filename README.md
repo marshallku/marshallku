@@ -58,12 +58,15 @@
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
 </details>
 
 ## 💜 Stats
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshallku&langs_count=8&layout=compact&theme=onedark&hide_border=true" alt="Top Langs" height="185" />](https://github.com/anuraghazra/github-readme-stats)
-[<img src="https://github-readme-streak-stats.herokuapp.com/?user=marshallku&theme=onedark&border=00000000" alt="Github Streak" height="185" />](https://git.io/streak-stats)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshallku&langs_count=8&layout=compact&theme=onedark&hide_border=true" alt="Top Langs" height="185" />](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshallku&langs_count=8&layout=compact&theme=solarized-light&hide_border=true" alt="Top Langs" height="185" />](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[<img src="https://github-readme-streak-stats.herokuapp.com/?user=marshallku&theme=onedark&border=00000000" alt="Github Streak" height="185" />](https://git.io/streak-stats#gh-dark-mode-only)
+[<img src="https://github-readme-streak-stats.herokuapp.com/?user=marshallku&theme=solarized-light&border=00000000" alt="Github Streak" height="185" />](https://git.io/streak-stats#gh-light-mode-only)
 
 ## ✒️ Recent Blog Posts
 
