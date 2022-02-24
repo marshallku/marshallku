@@ -1,8 +1,8 @@
 # Hi 👋, I'm Marshall.
 
-<img src="https://marshallku.github.io/marshallku/assets/images/taengoo3.gif" alt="탱구" height="150" /><img src="https://marshallku.github.io/marshallku/assets/images/winter18.gif" alt="윈터" height="150" />
+<img src="https://marshallku.github.io/marshallku/assets/images/taengoo3.gif" alt="탱구" height="150" /><img src="https://marshallku.github.io/marshallku/assets/images/winter3.gif" alt="윈터" height="150" />
 
-![Last Modified](<https://img.shields.io/badge/Last%20Modified-2022/02/24%2000:18%20(KST)-%23121212?style=flat>)
+![Last Modified](<https://img.shields.io/badge/Last%20Modified-2022/02/25%2000:18%20(KST)-%23121212?style=flat>)
 
 [<img height="28" src="https://marshallku.github.io/marshallku/assets/icons/blog-badge.svg" />][blog]
 [![mail](https://img.shields.io/badge/MAIL-F9E000?style=for-the-badge&logo=GMAIL&logoColor=%23000000)](mailto:marshall@kakao.com)
