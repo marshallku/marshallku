@@ -6,5 +6,5 @@ unset winter_array[0]
 taengoo=${taengoo_array[$RANDOM % ${#taengoo_array[@]}]}
 winter=${winter_array[$RANDOM % ${#winter_array[@]}]}
 now="$(TZ=Asia/Seoul date +"%Y/%m/%d %H:%M" | perl -pe "s/ /%20/g")"
-sed -E "s#src=[^ ]+ alt=탱구#src=https://i.imgur.com/$taengoo.gif alt=탱구#g;s#src=[^ ]+ alt=윈터#src=https://i.imgur.com/$winter.gif alt=윈터#g;s#Last%20Modified\-.+%20#Last%20Modified\-$now%20#g" README.md > tmp.md
+sed -E "s#src=\\\"[^ ]+\\\" alt=\\\"탱구\\\"#src=\\\"https://i.imgur.com/$taengoo.gif\\\" alt=\\\"탱구\\\"#g;s#src=\\\"[^ ]+\\\" alt=\\\"윈터\\\"#src=\\\"https://i.imgur.com/$winter.gif\\\" alt=\\\"윈터\\\"#g;s#Last%20Modified\-.+%20#Last%20Modified\-$now%20#g" README.md > tmp.md
 mv tmp.md ./README.md
