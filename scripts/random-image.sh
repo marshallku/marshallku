@@ -1,6 +1,7 @@
 #!/bin/bash
-taengoo_array=($(curl --location -g --request GET 'https://api.imgur.com/3/album/BxrOPIp' --header "Authorization: Client-ID $IMGUR_CLIENT_ID" | grep -Eo '"id":"([a-zA-Z0-9]+)"' | grep -Eo [a-zA-Z0-9]\{3,\} ))
-winter_array=($(curl --location -g --request GET 'https://api.imgur.com/3/album/K6dhwze' --header "Authorization: Client-ID $IMGUR_CLIENT_ID" | grep -Eo '"id":"([a-zA-Z0-9]+)"' | grep -Eo [a-zA-Z0-9]\{3,\} ))
+curl_options=(--location -g --header "Authorization: Client-ID $IMGUR_CLIENT_ID" --request GET)
+taengoo_array=($(curl "${curl_options[@]}" 'https://api.imgur.com/3/album/BxrOPIp' | grep -Eo '"id":"([a-zA-Z0-9]+)"' | grep -Eo [a-zA-Z0-9]\{3,\}))
+winter_array=($(curl "${curl_options[@]}" 'https://api.imgur.com/3/album/K6dhwze' | grep -Eo '"id":"([a-zA-Z0-9]+)"' | grep -Eo [a-zA-Z0-9]\{3,\}))
 taengoo=${taengoo_array[$RANDOM % (${#taengoo_array[@]} - 1) + 1]}
 winter=${winter_array[$RANDOM % (${#winter_array[@]} - 1) + 1]}
 now="$(TZ=Asia/Seoul date +"%Y/%m/%d %H:%M" | perl -pe "s/ /%20/g")"
