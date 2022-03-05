@@ -11,11 +11,16 @@ function getImagesFromImgur() {
     echo "${images[@]/$1}"
 }
 
+function pickRandom() {
+    arr=("$@")
+
+    echo ${arr[RANDOM % ${#arr[@]}]}
+}
+
 taengoo_array=$(getImagesFromImgur BxrOPIp)
 winter_array=$(getImagesFromImgur K6dhwze)
-
-taengoo="$(getImgurUri ${taengoo_array[$RANDOM % ${#taengoo_array[@]}]})"
-winter="$(getImgurUri ${winter_array[$RANDOM % ${#winter_array[@]}]})"
+taengoo="$(getImgurUri $(pickRandom ${taengoo_array[@]}))"
+winter="$(getImgurUri $(pickRandom ${winter_array[@]}))"
 
 now="$(TZ=Asia/Seoul date +"%Y/%m/%d%%20%H:%M")"
 
