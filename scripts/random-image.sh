@@ -3,17 +3,19 @@ function getImgurUri() {
     echo "https://i.imgur.com/$1.gif"
 }
 
-function requestApi() {
+function getImagesFromImgur() {
     curl_options=(--location -g --header "Authorization: Client-ID $IMGUR_CLIENT_ID" --request GET)
 
-    curl "${curl_options[@]}" "https://api.imgur.com/3/album/$1" | grep -Eo '"id":"([a-zA-Z0-9]+)"' | grep -Eo [a-zA-Z0-9]\{3,\}
+    images=($(curl "${curl_options[@]}" "https://api.imgur.com/3/album/$1" | grep -Eo '"id":"([a-zA-Z0-9]+)"' | grep -Eo [a-zA-Z0-9]\{3,\}))
+
+    echo "${images[@]/$1}"
 }
 
-taengoo_array=($(requestApi BxrOPIp))
-winter_array=($(requestApi K6dhwze))
+taengoo_array=$(getImagesFromImgur BxrOPIp)
+winter_array=$(getImagesFromImgur K6dhwze)
 
-taengoo="$(getImgurUri ${taengoo_array[$RANDOM % (${#taengoo_array[@]} - 1) + 1]})"
-winter="$(getImgurUri ${winter_array[$RANDOM % (${#winter_array[@]} - 1) + 1]})"
+taengoo="$(getImgurUri ${taengoo_array[$RANDOM % ${#taengoo_array[@]}]})"
+winter="$(getImgurUri ${winter_array[$RANDOM % ${#winter_array[@]}]})"
 
 now="$(TZ=Asia/Seoul date +"%Y/%m/%d%%20%H:%M")"
 
