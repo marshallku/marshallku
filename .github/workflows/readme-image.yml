@@ -1,9 +1,8 @@
 name: Set random image in README
+
 on:
-    public
-    # schedule:
-    #     - cron: "0 15 * * *"
-    # workflow_dispatch:
+    workflow_dispatch:
+
 jobs:
     update-readme-image:
         name: Update greeting image

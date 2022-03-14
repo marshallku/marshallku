@@ -1,8 +1,12 @@
 name: Set random image in README with Shell Script
+
 on:
     schedule:
         - cron: "0 15 * * *"
-    workflow_dispatch:
+    push:
+        paths:
+            - "scripts/random-image.sh"
+
 jobs:
     update-readme-image:
         name: Update greeting image
