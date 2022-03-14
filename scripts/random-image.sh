@@ -5,7 +5,7 @@ function getImgurUri() {
 
 function getImagesFromImgur() {
     curl_options=(--location -g --header "Authorization: Client-ID $IMGUR_CLIENT_ID" --request GET)
-    images=($(curl "${curl_options[@]}" "https://api.imgur.com/3/album/$1" | grep -Eo '"id":"([a-zA-Z0-9]+)"' | grep -Eo [a-zA-Z0-9]\{3,\}))
+    images=($(curl "${curl_options[@]}" "https://api.imgur.com/3/album/$1" | grep -Po '"id":"(\K[a-zA-Z0-9]+)'))
 
     echo "${images[@]/$1}"
 }
