@@ -1,14 +1,24 @@
-name: Latest blog post workflow
+name: Set recent blog post in README
+
 on:
     schedule:
         - cron: "0 * * * *"
+    push:
+        paths:
+            - "scripts/blog-post.sh"
     workflow_dispatch:
+
 jobs:
-    update-readme-with-blog:
-        name: Update this repo's README with latest blog posts
+    update-readme-blog-post:
+        name: Update README with latest blog posts
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with:
-                  feed_list: "https://marshallku.com/feed"
+            - name: Set permission
+              run: chmod +x ./scripts/blog-post.sh
+            - name: Run script
+              run: ./scripts/blog-post.sh
+              env:
+                  TOKEN: ${{ secrets.TOKEN }}
+                  REPOSITORY: ${{ github.repository }}
+
