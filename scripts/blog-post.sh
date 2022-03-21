@@ -12,7 +12,7 @@ result="<!-- Blog-Post -->\n\n"
 
 for i in {0..4}
 do
-    result+="-   [${titles[i]} (${dates[i]})](${links[i]})\n"
+    result+="-   [${titles[i]}](${links[i]})\n"
 done
 
 result+="\n<!-- Blog-Post -->"
