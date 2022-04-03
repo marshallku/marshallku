@@ -14,10 +14,10 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
-            - name: Set permission
-              run: chmod +x ./scripts/blog-post.sh
             - name: Run script
-              run: ./scripts/blog-post.sh
+              run: |
+                  chmod +x ./scripts/blog-post.sh
+                  ./scripts/blog-post.sh
             - name: Commit
               run: |
                   chmod +x ./scripts/commit.sh

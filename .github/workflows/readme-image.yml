@@ -13,10 +13,10 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
-            - name: Set permission
-              run: chmod +x ./scripts/random-image.sh
             - name: Run script
-              run: ./scripts/random-image.sh
+              run: |
+                  chmod +x ./scripts/random-image.sh
+                  ./scripts/random-image.sh
               env:
                   IMGUR_CLIENT_ID: ${{ secrets.IMGUR_CLIENT_ID }}
             - name: Commit
