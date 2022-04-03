@@ -18,7 +18,11 @@ jobs:
               run: chmod +x ./scripts/blog-post.sh
             - name: Run script
               run: ./scripts/blog-post.sh
+            - name: Commit
+              run: |
+                  chmod +x ./scripts/commit.sh
+                  ./scripts/commit.sh
               env:
                   TOKEN: ${{ secrets.TOKEN }}
                   REPOSITORY: ${{ github.repository }}
-
+                  MESSAGE: "Update blog post"

@@ -19,10 +19,11 @@ jobs:
               run: ./scripts/random-image.sh
               env:
                   IMGUR_CLIENT_ID: ${{ secrets.IMGUR_CLIENT_ID }}
-            # Code from https://stackoverflow.com/a/58393457
-            - name: load to github
+            - name: Commit
               run: |
-                  git config --global user.name 'image-updater'
-                  git remote set-url origin https://x-access-token:${{ secrets.TOKEN }}@github.com/${{ github.repository }}
-                  git commit -am "Update image"
-                  git push
+                  chmod +x ./scripts/commit.sh
+                  ./scripts/commit.sh
+              env:
+                  TOKEN: ${{ secrets.TOKEN }}
+                  REPOSITORY: ${{ github.repository }}
+                  MESSAGE: "Update image"

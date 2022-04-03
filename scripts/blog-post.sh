@@ -18,11 +18,3 @@ done
 result+="\n<!-- Blog-Post -->"
 
 sed -E -z -i "s#<!-- Blog-Post -->.+?<!-- Blog-Post -->#$result#g" README.md
-
-# Commit if possible
-if [[ `git status --porcelain` ]]; then
-    git config --global user.name 'blog-post-updater'
-    git remote set-url origin https://x-access-token:$TOKEN@github.com/$REPOSITORY
-    git commit -am "Update recent blog post"
-    git push
-fi
