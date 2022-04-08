@@ -3,7 +3,7 @@
 # https://stackoverflow.com/a/8822083
 IFS=$'\n'
 
-response=$(curl --location -g --request GET 'https://marshallku.com/recent?type=post')
+response=$(curl --location -g --request GET 'https://marshallku.com/recent?type=post')|| exit 1
 titles=(`echo $response | grep -Po '"title":"\K.+?(?=")'`)
 links=(`echo $response | grep -Po '"uri":"\K(.+?)(?=")'`)
 dates=(`echo $response | grep -Po '"dateFormat":"\K(.+?)(?=")'`)

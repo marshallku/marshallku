@@ -5,7 +5,7 @@ function getImgurUri() {
 
 function getImagesFromImgur() {
     curl_options=(--location -g --header "Authorization: Client-ID $IMGUR_CLIENT_ID" --request GET)
-    images=($(curl "${curl_options[@]}" "https://api.imgur.com/3/album/$1" | grep -Po '"id":"(\K[a-zA-Z0-9]+)'))
+    images=($(curl "${curl_options[@]}" "https://api.imgur.com/3/album/$1" | grep -Po '"id":"(\K[a-zA-Z0-9]+)'))|| exit 1
 
     echo "${images[@]/$1}"
 }
@@ -16,8 +16,10 @@ function pickRandom() {
     echo ${arr[RANDOM % ${#arr[@]}]}
 }
 
+set -e
 taengoo_array=$(getImagesFromImgur BxrOPIp)
 winter_array=$(getImagesFromImgur K6dhwze)
+set +e
 taengoo=$(getImgurUri $(pickRandom ${taengoo_array[@]}))
 winter=$(getImgurUri $(pickRandom ${winter_array[@]}))
 now=$(TZ=Asia/Seoul date +"%Y/%m/%d%%20%H:%M")
