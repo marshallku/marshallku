@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/pnEPoyq.gif" alt="탱구" height="150" /><img src="https://i.imgur.com/y4Rc2c1.gif" alt="윈터" height="150" />
 
-![Last Modified](<https://img.shields.io/badge/Last%20Modified-2022/04/30%2000:16%20(KST)-%23121212?style=flat>)
+[<img src="https://img.shields.io/badge/Last%20Modified-2022/04/30%2000:16%20(KST)-%23121212?style=flat" alt="Last Modified - 2022/04/30 00:16 (KST)" />](https://github.com/marshallku/marshallku/blob/master/scripts/random-image.sh)
 
 [<img height="28" src="https://marshallku.github.io/marshallku/assets/icons/blog-badge.svg" />][blog]
 [![mail](https://img.shields.io/badge/MAIL-F9E000?style=for-the-badge&logo=GMAIL&logoColor=%23000000)](mailto:marshall@kakao.com)
