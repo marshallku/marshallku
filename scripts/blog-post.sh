@@ -6,13 +6,14 @@ IFS=$'\n'
 response=$(curl --location -g --request GET 'https://marshallku.com/recent?type=post')|| exit 1
 titles=(`echo $response | grep -Po '"title":"\K.+?(?=")'`)
 links=(`echo $response | grep -Po '"uri":"\K(.+?)(?=")'`)
-dates=(`echo $response | grep -Po '"dateFormat":"\K(.+?)(?=")'`)
+dates=(`echo $response | grep -Po '"date":"\K(.+?)(?=")'`)
 
 result="<!-- Blog-Post -->\n\n"
 
 for i in {0..4}
 do
-    result+="-   [${titles[i]}](${links[i]})\n"
+    formattedDate="$(LANG=en_US date '+%b %-d, %Y' -d "${dates[i]}")"
+    result+="-   [${titles[i]}](${links[i]}) - ${formattedDate}\n"
 done
 
 result+="\n<!-- Blog-Post -->"
