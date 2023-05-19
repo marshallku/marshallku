@@ -15,15 +15,11 @@ jobs:
         steps:
             - uses: actions/checkout@v3
             - name: Run script
-              run: |
-                  chmod +x ./scripts/random-image.sh
-                  ./scripts/random-image.sh
+              run: bash scripts/random-image.sh
               env:
                   IMGUR_CLIENT_ID: ${{ secrets.IMGUR_CLIENT_ID }}
             - name: Commit
-              run: |
-                  chmod +x ./scripts/commit.sh
-                  ./scripts/commit.sh
+              run: bash scripts/commit.sh
               env:
                   TOKEN: ${{ secrets.TOKEN }}
                   REPOSITORY: ${{ github.repository }}
