@@ -1,11 +1,11 @@
 #!/bin/bash
 failed_pattern="FAILED: "
 
-getImgurUri() {
+get_imgur_uri() {
     echo "https://i.imgur.com/$1.gif"
 }
 
-getImagesFromImgur() {
+get_images_from_imgur() {
     local album_id="$1"
     local curl_options=(--location -g --header "Authorization: Client-ID $IMGUR_CLIENT_ID" --request GET)
     local response=$(curl "${curl_options[@]}" "https://api.imgur.com/3/album/$album_id")
@@ -19,26 +19,27 @@ getImagesFromImgur() {
     echo "${ids[@]/$album_id/}"
 }
 
-pickRandom() {
+pick_random() {
     arr=("$@")
 
     echo ${arr[RANDOM % ${#arr[@]}]}
 }
 
-taengoo_array=$(getImagesFromImgur BxrOPIp)
+taengoo_array=$(get_images_from_imgur BxrOPIp)
 if [[ "$taengoo_array" =~ $failed_pattern ]]; then
     echo "$taengoo_array"
     exit 1
 fi
 
-winter_array=$(getImagesFromImgur K6dhwze)
+winter_array=$(get_images_from_imgur K6dhwze)
 if [[ "$winter_array" =~ $failed_pattern ]]; then
     echo "$winter_array"
     exit 1
 fi
 
-taengoo=$(getImgurUri $(pickRandom ${taengoo_array[@]}))
-winter=$(getImgurUri $(pickRandom ${winter_array[@]}))
+taengoo=$(get_imgur_uri $(pick_random ${taengoo_array[@]}))
+winter=$(get_imgur_uri $(pick_random ${winter_array[@]}))
+
 now_encoded=$(TZ=Asia/Seoul date +"%Y/%m/%d%%20%H:%M")
 now=$(TZ=Asia/Seoul date +"%Y/%m/%d %H:%M")
 
