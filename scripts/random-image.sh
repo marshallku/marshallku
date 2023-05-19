@@ -25,17 +25,20 @@ pick_random() {
     echo ${arr[RANDOM % ${#arr[@]}]}
 }
 
+handle_failed_request() {
+    local response="$1"
+
+    if [[ "$response" =~ $failed_pattern ]]; then
+        echo "$response"
+        exit 1
+    fi
+}
+
 taengoo_array=$(get_images_from_imgur BxrOPIp)
-if [[ "$taengoo_array" =~ $failed_pattern ]]; then
-    echo "$taengoo_array"
-    exit 1
-fi
+handle_failed_request "$taengoo_array"
 
 winter_array=$(get_images_from_imgur K6dhwze)
-if [[ "$winter_array" =~ $failed_pattern ]]; then
-    echo "$winter_array"
-    exit 1
-fi
+handle_failed_request "$winter_array"
 
 taengoo=$(get_imgur_uri $(pick_random ${taengoo_array[@]}))
 winter=$(get_imgur_uri $(pick_random ${winter_array[@]}))
