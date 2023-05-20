@@ -1,21 +1,20 @@
 #!/bin/bash
 message=''
 
-parse_args() {
+while [[ $# -gt 0 ]]; do
     case "$1" in
     -m | --message)
         message="$2"
+        shift 2
+        ;;
+    *)
+        echo "Unknown argument: $1"
+        exit 1
         ;;
     esac
-}
-
-while [[ "$#" -ge 2 ]]; do
-    parse_args "$1" "$2"
-    shift
-    shift
 done
 
 curl \
     -H "Content-Type: application/json" \
     -d "{\"content\": \"$message\"}" \
-    $DISCORD_WEBHOK_URI
+    "$DISCORD_WEBHOOK_URI"
