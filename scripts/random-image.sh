@@ -30,13 +30,13 @@ pick_random() {
 taengoo_array=$(get_images_from_imgur BxrOPIp)
 if [[ "$taengoo_array" =~ $failed_pattern ]]; then
     echo "$taengoo_array"
-    taengoo_array='Q1CqD0J pnEPoyq 3K3TIIS PfJXwd8 Bra4jgp v0qRJlZ MkFXmbG EPWdCbp a4ULDAi V9FVWI4 QmlFeEv DrDv29s btGiSft uHfjdq1 5QAyQ2R xhFKUS8 RJodwb7 4PTLa7Q 3QWo299 ZKub9pJ HG6JYsC QVvCjSp 1biEOYk 6Y399Oe pRXU3ur RthZ3K4 6RkZXiS PmOa9QF zWZupLu'
+    taengoo_array=('Q1CqD0J' 'pnEPoyq' '3K3TIIS' 'PfJXwd8' 'Bra4jgp' 'v0qRJlZ' 'MkFXmbG' 'EPWdCbp' 'a4ULDAi' 'V9FVWI4' 'QmlFeEv' 'DrDv29s' 'btGiSft' 'uHfjdq1' '5QAyQ2R' 'xhFKUS8' 'RJodwb7' '4PTLa7Q' '3QWo299' 'ZKub9pJ' 'HG6JYsC' 'QVvCjSp' '1biEOYk' '6Y399Oe' 'pRXU3ur' 'RthZ3K4' '6RkZXiS' 'PmOa9QF' 'zWZupLu')
 fi
 
 winter_array=$(get_images_from_imgur K6dhwze)
 if [[ "$winter_array" =~ $failed_pattern ]]; then
     echo "$winter_array"
-    winter_array='uowBiqV QIDTnem 1Eu9QAH JLFVKM6 S7H6eMc Yb59cPJ y4Rc2c1 ShngxA3 ejytsux LuvCU0x YR5W2iJ gpxp0Hv IFRL8An LxBdJ5e VrCzF4y d1cL4mu ZRFKavE FFSeD8B kAEoObM RCIDFOf nywAsm4 gOdAtJt memWfeI inmu4vG rigXOP7 I6723IW 3jZEMXT 3BTaWdM fHgBjBz gJmDHbv YHGNA7u'
+    winter_array=('uowBiqV' 'QIDTnem' '1Eu9QAH' 'JLFVKM6' 'S7H6eMc' 'Yb59cPJ' 'y4Rc2c1' 'ShngxA3' 'ejytsux' 'LuvCU0x' 'YR5W2iJ' 'gpxp0Hv' 'IFRL8An' 'LxBdJ5e' 'VrCzF4y' 'd1cL4mu' 'ZRFKavE' 'FFSeD8B' 'kAEoObM' 'RCIDFOf' 'nywAsm4' 'gOdAtJt' 'memWfeI' 'inmu4vG' 'rigXOP7' 'I6723IW' '3jZEMXT' '3BTaWdM' 'fHgBjBz' 'gJmDHbv' 'YHGNA7u')
 fi
 
 taengoo=$(get_imgur_uri "$(pick_random "${taengoo_array[@]}")")
