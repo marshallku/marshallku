@@ -8,7 +8,10 @@ get_imgur_uri() {
 get_images_from_imgur() {
     local album_id="$1"
     local curl_options=(--location -g --header "Authorization: Client-ID $IMGUR_CLIENT_ID" --request GET)
-    local response=$(curl "${curl_options[@]}" "https://api.imgur.com/3/album/$album_id")
+    local response
+
+    response=$(curl "${curl_options[@]}" "https://api.imgur.com/3/album/$album_id")
+
     local ids=($(echo "$response" | grep -Po '"id":"(\K[a-zA-Z0-9]+)'))
 
     if [[ "${#ids[@]}" -eq 0 ]]; then
