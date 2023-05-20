@@ -20,9 +20,8 @@ get_images_from_imgur() {
 }
 
 pick_random() {
-    arr=("$@")
-
-    echo ${arr[RANDOM % ${#arr[@]}]}
+    local arr=("$@")
+    echo "${arr[RANDOM % ${#arr[@]}]}"
 }
 
 handle_failed_request() {
@@ -40,8 +39,8 @@ handle_failed_request "$taengoo_array"
 winter_array=$(get_images_from_imgur K6dhwze)
 handle_failed_request "$winter_array"
 
-taengoo=$(get_imgur_uri $(pick_random ${taengoo_array[@]}))
-winter=$(get_imgur_uri $(pick_random ${winter_array[@]}))
+taengoo=$(get_imgur_uri "$(pick_random "${taengoo_array[@]}")")
+winter=$(get_imgur_uri "$(pick_random "${winter_array[@]}")")
 
 now_encoded=$(TZ=Asia/Seoul date +"%Y/%m/%d%%20%H:%M")
 now=$(TZ=Asia/Seoul date +"%Y/%m/%d %H:%M")
