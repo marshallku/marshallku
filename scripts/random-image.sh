@@ -48,4 +48,4 @@ winter=$(get_imgur_uri "$(pick_random "${winter_array[@]}")")
 now_encoded=$(TZ=Asia/Seoul date +"%Y/%m/%d%%20%H:%M")
 now=$(TZ=Asia/Seoul date +"%Y/%m/%d %H:%M")
 
-sed -E -i "s#src=\\\"[^ ]+\\\" alt=\\\"탱구\\\"#src=\\\"$taengoo\\\" alt=\\\"탱구\\\"#g;s#src=\\\"[^ ]+\\\" alt=\\\"윈터\\\"#src=\\\"$winter\\\" alt=\\\"윈터\\\"#g;s#Last%20Modified\-.+%20#Last%20Modified\-$now_encoded%20#g;s#Last Modified - .+? \(KST\)#Last Modified - $now (KST)#g" README.md
+sed -E -i "s#src=\"[^ ]+\" alt=\"탱구\"#src=\"$taengoo\" alt=\"탱구\"#g;s#src=\"[^ ]+\" alt=\"윈터\"#src=\"$winter\" alt=\"윈터\"#g;s#Last%20Modified\-.+%20#Last%20Modified\-$now_encoded%20#g;s#Last Modified - .+? \(KST\)#Last Modified - $now (KST)#g" README.md
