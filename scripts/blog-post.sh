@@ -17,7 +17,7 @@ fi
 result="$pattern\n\n"
 for ((i = 0; i < 5; i++)); do
     formattedDate="$(LANG=en_US date '+%b %-d, %Y' -d "${dates[i]}")"
-    result+="-   [${titles[i]}](${links[i]}) - ${formattedDate}\n"
+    result+="- [${titles[i]}](${links[i]}) - ${formattedDate}\n"
 done
 result+="\n$pattern"
 
