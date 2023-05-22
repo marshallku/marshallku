@@ -15,12 +15,13 @@ jobs:
         steps:
             - uses: actions/checkout@v3
             - name: Run script
-              run: |
-                  bash ./scripts/blog-post.sh || bash ./scripts/send-notification.sh -m "🚨 Failed to update blog post\n\nCheck: https://marshallku.com/"
-            - name: Commit
-              run: |
-                  bash ./scripts/commit.sh || bash ./scripts/send-notification.sh -m "Failed to commit changes"
+              run: bash ./scripts/blog-post.sh || bash ./scripts/send-notification.sh -m "🚨 Failed to update blog post"
               env:
-                  TOKEN: ${{ secrets.TOKEN }}
-                  REPOSITORY: ${{ github.repository }}
-                  MESSAGE: "Update blog post"
+                    DISCORD_WEBHOK_URI: ${{ secrets.DISCORD_WEBHOK_URI }}
+            - name: Commit
+              run: bash ./scripts/commit.sh || bash ./scripts/send-notification.sh -m "Failed to commit changes"
+              env:
+                    TOKEN: ${{ secrets.TOKEN }}
+                    REPOSITORY: ${{ github.repository }}
+                    DISCORD_WEBHOK_URI: ${{ secrets.DISCORD_WEBHOK_URI }}
+                    MESSAGE: "Update blog post"
