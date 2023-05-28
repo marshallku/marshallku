@@ -9,17 +9,19 @@ get_images_from_imgur() {
     local album_id="$1"
     local curl_options=(--location -g --header "Authorization: Client-ID $IMGUR_CLIENT_ID" --request GET)
     local response
+    local ids
+    local splitted
 
     response=$(curl "${curl_options[@]}" "https://api.imgur.com/3/album/$album_id")
+    ids=$(echo "$response" | grep -Po '"id":"(\K[a-zA-Z0-9]+)')
+    read -ra splitted <<<"$ids"
 
-    local ids=($(echo "$response" | grep -Po '"id":"(\K[a-zA-Z0-9]+)'))
-
-    if [[ "${#ids[@]}" -eq 0 ]]; then
+    if [[ "${#splitted[@]}" -eq 0 ]]; then
         echo "$failed_pattern$response"
         return 1
     fi
 
-    echo "${ids[@]/$album_id/}"
+    echo "${splitted[@]}"
 }
 
 pick_random() {
