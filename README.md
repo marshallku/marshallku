@@ -1,8 +1,8 @@
 # Hi 👋, I'm Marshall.
 
-<img src="https://i.imgur.com/QVvCjSp.gif" alt="탱구" height="150" /><img src="https://i.imgur.com/YHGNA7u.gif" alt="윈터" height="150" />
+<img src="https://i.imgur.com/Q1CqD0J.gif" alt="탱구" height="150" /><img src="https://i.imgur.com/I6723IW.gif" alt="윈터" height="150" />
 
-[<img src="https://img.shields.io/badge/Last%20Modified-2023/07/25%2000:12%20(KST)-%23121212?style=flat" alt="Last Modified - 2023/07/25 00:12 (KST)" />](https://github.com/marshallku/marshallku/blob/master/scripts/random-image.sh)
+[<img src="https://img.shields.io/badge/Last%20Modified-2023/07/26%2000:12%20(KST)-%23121212?style=flat" alt="Last Modified - 2023/07/26 00:12 (KST)" />](https://github.com/marshallku/marshallku/blob/master/scripts/random-image.sh)
 
 [<img height="28" src="https://marshallku.github.io/marshallku/assets/icons/blog-badge.svg" alt="blog logo" />][blog] [![mail](https://img.shields.io/badge/MAIL-F9E000?style=for-the-badge&logo=GMAIL&logoColor=%23000000)](mailto:marshall@kakao.com) ![Discord - marshallku](https://img.shields.io/badge/marshallku-7289da?style=for-the-badge&logo=DISCORD&logoColor=fff)
 
