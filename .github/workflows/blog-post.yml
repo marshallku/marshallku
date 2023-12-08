@@ -17,8 +17,8 @@ jobs:
             - name: Run script
               run: bash ./scripts/blog-post.sh || bash ./scripts/send-notification.sh -m "🚨 Failed to update blog post"
               env:
-                  DISCORD_WEBHOK_URI: ${{ secrets.DISCORD_WEBHOK_URI }}
+                  DISCORD_WEBHOOK_URI: ${{ secrets.DISCORD_WEBHOOK_URI }}
             - name: Commit
               run: bash ./scripts/commit.sh -m "Update blog post" || bash ./scripts/send-notification.sh -m "Failed to commit changes"
               env:
-                  DISCORD_WEBHOK_URI: ${{ secrets.DISCORD_WEBHOK_URI }}
+                  DISCORD_WEBHOOK_URI: ${{ secrets.DISCORD_WEBHOOK_URI }}
