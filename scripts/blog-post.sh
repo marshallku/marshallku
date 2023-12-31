@@ -2,9 +2,13 @@
 
 file="README.md"
 response=$(curl --location -g --request GET 'https://marshallku.com/recent?type=post') || exit 5
-mapfile -t titles < <(echo "$response" | grep -Po '"title":"\K.+?(?=")')
-mapfile -t links < <(echo "$response" | grep -Po '"uri":"\K(.+?)(?=")')
-mapfile -t dates < <(echo "$response" | grep -Po '"date":"\K(.+?)(?=")')
+mapfile -t results < <(echo "$response" | grep -Po '"title":"\K.+?(?=")|"uri":"\K(.+?)(?=")|"date":"\K(.+?)(?=")')
+
+for ((i = 0; i < ${#results[@]}; i += 3)); do
+    titles+=("${results[i]}")
+    links+=("${results[i + 1]}")
+    dates+=("${results[i + 2]}")
+done
 
 pattern='<!-- Blog-Post -->'
 
