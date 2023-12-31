@@ -1,4 +1,4 @@
-# Hi 👋, I'm Marshall.
+# Hi 👋, I'm Marshall
 
 May I suggest a delightful menu for your dining pleasure today?
 
