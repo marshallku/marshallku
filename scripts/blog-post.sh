@@ -1,13 +1,11 @@
 #!/bin/bash
-# Replace IFS to newline for creating array with spaces
-# https://stackoverflow.com/a/8822083
-IFS=$'\n'
 
 file="README.md"
 response=$(curl --location -g --request GET 'https://marshallku.com/recent?type=post') || exit 5
-titles=($(echo "$response" | grep -Po '"title":"\K.+?(?=")'))
-links=($(echo "$response" | grep -Po '"uri":"\K(.+?)(?=")'))
-dates=($(echo "$response" | grep -Po '"date":"\K(.+?)(?=")'))
+mapfile -t titles < <(echo "$response" | grep -Po '"title":"\K.+?(?=")')
+mapfile -t links < <(echo "$response" | grep -Po '"uri":"\K(.+?)(?=")')
+mapfile -t dates < <(echo "$response" | grep -Po '"date":"\K(.+?)(?=")')
+
 pattern='<!-- Blog-Post -->'
 
 if [[ ${#titles[@]} -eq 0 || ${#links[@]} -eq 0 || ${#dates[@]} -eq 0 ]]; then
