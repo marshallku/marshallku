@@ -18,11 +18,11 @@ May I suggest a delightful menu for your dining pleasure today?
 
 <!-- Blog-Post -->
 
+- [Next.js로 블로그 전환 완료](https://marshallku.com/notice/nextjs-blog-migration) - Feb 4, 2024
 - [Rust로 점메추 / 저메추 api 제작기](https://marshallku.com/dev/rust%EB%A1%9C-%EC%A0%90%EB%A9%94%EC%B6%94-%EC%A0%80%EB%A9%94%EC%B6%94-api-%EC%A0%9C%EC%9E%91%EA%B8%B0) - Dec 26, 2023
 - [Next.js app router에서 data fetching하기](https://marshallku.com/dev/next-js-app-router%EC%97%90%EC%84%9C-data-fetching%ED%95%98%EA%B8%B0) - Nov 20, 2023
 - [Github Actions로 tag, release 생성하기](https://marshallku.com/dev/github-actions%EB%A1%9C-tag-release-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0) - Jun 19, 2023
 - [블로그 각종 장애 처리 일지](https://marshallku.com/dev/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B0%81%EC%A2%85-%EC%9E%A5%EC%95%A0-%EC%B2%98%EB%A6%AC-%EC%9D%BC%EC%A7%80) - May 18, 2023
-- [React에서 dialog 만들기](https://marshallku.com/dev/react%EC%97%90%EC%84%9C-dialog-%EB%A7%8C%EB%93%A4%EA%B8%B0) - Jul 22, 2022
 
 <!-- Blog-Post -->
 
