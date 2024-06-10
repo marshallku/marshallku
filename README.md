@@ -1,14 +1,27 @@
 # Hi 👋, I'm Marshall
 
+I am a passionate developer who thrives on learning and taking on new challenges.
+
+## 📬 Contact
+
+[<img height="28" src="https://marshallku.github.io/marshallku/assets/icons/blog-badge.svg" alt="blog logo" />][blog]
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marshallku/)
+[![mail](https://img.shields.io/badge/MAIL-F9E000?style=for-the-badge&logo=GMAIL&logoColor=%23000000)](mailto:marshall@kakao.com)
+![Discord - marshallku](https://img.shields.io/badge/marshallku-7289da?style=for-the-badge&logo=DISCORD&logoColor=fff)
+
+## 🍽️ Today's Delightful Menu
+
 May I suggest a delightful menu for your dining pleasure today?
 
 [![Your delightful menu](https://marshallku.dev:48018/?theme=dark)](https://github.com/marshallku/menu-today#gh-dark-mode-only) [![Your delightful menu](https://marshallku.dev:48018/?theme=light)](https://github.com/marshallku/menu-today#gh-light-mode-only)
 
-[<img height="28" src="https://marshallku.github.io/marshallku/assets/icons/blog-badge.svg" alt="blog logo" />][blog] [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marshallku/) [![mail](https://img.shields.io/badge/MAIL-F9E000?style=for-the-badge&logo=GMAIL&logoColor=%23000000)](mailto:marshall@kakao.com) ![Discord - marshallku](https://img.shields.io/badge/marshallku-7289da?style=for-the-badge&logo=DISCORD&logoColor=fff)
-
 ## 📚 Skills
 
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshallku&langs_count=12&layout=compact&theme=onedark&hide_border=true" alt="Top Langs" />](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshallku&langs_count=12&layout=compact&theme=solarized-light&hide_border=true" alt="Top Langs" />](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+## 📄 Resume
+
+For a detailed overview of my professional experience, please visit my [Resume](https://resume.marshallku.com).
 
 ## 💜 Commit streaks
 
