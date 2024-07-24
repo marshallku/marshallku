@@ -31,7 +31,7 @@ For a detailed overview of my professional experience, please visit my [Resume](
 
 <!-- Blog-Post -->
 
-- [GitHub Actions에서 Azure Blob Storage로 파일 배포하기](https://marshallku.com/dev/deploy-to-azure-blob-in-github-actions) - Jul 23, 2024
+- [GitHub Actions에서 Azure Blob Storage로 파일 배포하기](https://marshallku.com/dev/deploy-to-azure-blob-in-github-actions) - Jul 24, 2024
 - [Visual regression test 도입기](https://marshallku.com/dev/visual-regression-test) - Jun 1, 2024
 - [Next.js에서 번들 사이즈 최적화하기](https://marshallku.com/dev/nextjs-%EB%B2%88%EB%93%A4-%EC%82%AC%EC%9D%B4%EC%A6%88-%EC%B5%9C%EC%A0%81%ED%99%94) - May 19, 2024
 - [소스코드 맞춤법 검사하기](https://marshallku.com/dev/%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C-%EB%A7%9E%EC%B6%A4%EB%B2%95-%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0) - May 17, 2024
