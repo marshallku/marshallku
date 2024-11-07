@@ -35,11 +35,11 @@ For a detailed overview of my professional experience, please visit my [Resume](
 
 <!-- Blog-Post -->
 
+- [컨테이너 환경에서 wrk로 벤치마크 테스트하기](https://marshallku.com/dev/benchmark-with-wrk-in-container) - Nov 7, 2024
 - [Git Garden 제작기 및 소개](https://marshallku.com/dev/gitgarden-%EC%A0%9C%EC%9E%91%EA%B8%B0-%EB%B0%8F-%EC%86%8C%EA%B0%9C) - Nov 3, 2024
 - [Kubernetes로 GitHub Actions 커스텀 러너 구축하기](https://marshallku.com/dev/setup-github-actions-custom-runner-with-kubernetes) - Sep 2, 2024
 - [2024 상반기 회고](https://marshallku.com/chat/2024-%EC%83%81%EB%B0%98%EA%B8%B0-%ED%9A%8C%EA%B3%A0) - Aug 29, 2024
 - [Docker로 Rust 애플리케이션 배포하기](https://marshallku.com/dev/deploy-rust-with-docker) - Jul 25, 2024
-- [GitHub Actions에서 Azure Blob Storage로 파일 배포하기](https://marshallku.com/dev/deploy-to-azure-blob-in-github-actions) - Jul 24, 2024
 
 <!-- Blog-Post -->
 
