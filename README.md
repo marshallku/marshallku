@@ -13,7 +13,7 @@ I am a passionate developer who thrives on learning and taking on new challenges
 
 May I suggest a delightful menu for your dining pleasure today?
 
-[![Your delightful menu](https://marshallku.dev:48018/?theme=dark)](https://github.com/marshallku/menu-today#gh-dark-mode-only) [![Your delightful menu](https://marshallku.dev:48018/?theme=light)](https://github.com/marshallku/menu-today#gh-light-mode-only)
+[![Your delightful menu](https://menu.marshallku.dev/?theme=dark)](https://github.com/marshallku/menu-today#gh-dark-mode-only) [![Your delightful menu](https://menu.marshallku.dev/?theme=light)](https://github.com/marshallku/menu-today#gh-light-mode-only)
 
 ## ☘️ My GitHub garden
 
