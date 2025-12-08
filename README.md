@@ -35,11 +35,11 @@ For a detailed overview of my professional experience, please visit my [Resume](
 
 <!-- Blog-Post -->
 
-- [I use arch, btw](https://marshallku.com/chat/i-use-arch-btw) - Nov 8, 2025
-- [250930 장애 대응](https://marshallku.com/dev/250930-outage) - Sep 30, 2025
-- [Plasmo 개발 환경에서 Next.js 앱 망가뜨리는 문제 해결하기](https://marshallku.com/dev/fix-plasmo) - Sep 17, 2025
-- [컨테이너 환경에서 wrk로 벤치마크 테스트하기](https://marshallku.com/dev/benchmark-with-wrk-in-container) - Nov 7, 2024
-- [Git Garden 제작기 및 소개](https://marshallku.com/dev/gitgarden-%EC%A0%9C%EC%9E%91%EA%B8%B0-%EB%B0%8F-%EC%86%8C%EA%B0%9C) - Nov 3, 2024
+- [I use arch, btw](/chat/i-use-arch-btw/) - Nov 8, 2025
+- [250930 장애 대응](/dev/250930-outage/) - Sep 30, 2025
+- [Plasmo 개발 환경에서 Next.js 앱 망가뜨리는 문제 해결하기](/dev/fix-plasmo/) - Sep 17, 2025
+- [컨테이너 환경에서 wrk로 벤치마크 테스트하기](/dev/benchmark-with-wrk-in-container/) - Nov 7, 2024
+- [Git Garden 제작기 및 소개](/dev/gitgarden-제작기-및-소개/) - Nov 3, 2024
 
 <!-- Blog-Post -->
 
