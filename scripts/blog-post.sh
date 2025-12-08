@@ -1,7 +1,7 @@
 #!/bin/bash
 
 file="README.md"
-response=$(curl --location -g --request GET 'https://marshallku.com/recent?type=post') || exit 5
+response=$(curl --location -g --request GET 'https://marshallku.com/recent.json') || exit 5
 mapfile -t results < <(echo "$response" | grep -Po '"title":"\K.+?(?=")|"uri":"\K(.+?)(?=")|"date":"\K(.+?)(?=")')
 
 for ((i = 0; i < ${#results[@]}; i += 3)); do
