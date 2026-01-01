@@ -35,11 +35,11 @@ For a detailed overview of my professional experience, please visit my [Resume](
 
 <!-- Blog-Post -->
 
+- [2025 회고 및 서버 업데이트](/chat/2025-retrospective/) - Dec 30, 2025
 - [I use arch, btw](/chat/i-use-arch-btw/) - Nov 8, 2025
 - [250930 장애 대응](/dev/250930-outage/) - Sep 30, 2025
 - [Plasmo 개발 환경에서 Next.js 앱 망가뜨리는 문제 해결하기](/dev/fix-plasmo/) - Sep 17, 2025
 - [컨테이너 환경에서 wrk로 벤치마크 테스트하기](/dev/benchmark-with-wrk-in-container/) - Nov 7, 2024
-- [Git Garden 제작기 및 소개](/dev/gitgarden-제작기-및-소개/) - Nov 3, 2024
 
 <!-- Blog-Post -->
 
