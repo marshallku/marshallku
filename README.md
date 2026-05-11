@@ -9,19 +9,13 @@ I am a passionate developer who thrives on learning and taking on new challenges
 [![mail](https://img.shields.io/badge/MAIL-F9E000?style=for-the-badge&logo=GMAIL&logoColor=%23000000)](mailto:marshall@kakao.com)
 ![Discord - marshallku](https://img.shields.io/badge/marshallku-7289da?style=for-the-badge&logo=DISCORD&logoColor=fff)
 
-## 🍽️ Today's Delightful Menu
-
-May I suggest a delightful menu for your dining pleasure today?
-
-[![Your delightful menu](https://menu.marshallku.dev/?theme=dark)](https://github.com/marshallku/menu-today#gh-dark-mode-only) [![Your delightful menu](https://menu.marshallku.dev/?theme=light)](https://github.com/marshallku/menu-today#gh-light-mode-only)
-
 ## ☘️ My GitHub garden
 
 [<img src="https://gitgarden.marshallku.dev/?user_name=marshallku" />](https://github.com/marshallku/gitgarden)
 
 ## 📚 Skills
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshallku&langs_count=12&layout=compact&theme=onedark&hide_border=true" alt="Top Langs" />](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshallku&langs_count=12&layout=compact&theme=solarized-light&hide_border=true" alt="Top Langs" />](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=marshallku&langs_count=12&layout=compact&theme=onedark&hide_border=true" alt="Top Langs" />](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=marshallku&langs_count=12&layout=compact&theme=solarized-light&hide_border=true" alt="Top Langs" />](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## 📄 Resume
 
