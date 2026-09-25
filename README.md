@@ -29,11 +29,11 @@ For a detailed overview of my professional experience, please visit my [Resume](
 
 <!-- Blog-Post -->
 
+- [나만의 터미널 제작기](https://marshallku.com/dev/road-to-making-my-own-terminal/) - Jul 25, 2026
 - [홈랩에서 각종 태스크 자동화하기](https://marshallku.com/dev/automating-tasks-in-homelab/) - Jan 18, 2026
 - [2025 회고 및 서버 업데이트](https://marshallku.com/chat/2025-retrospective/) - Dec 30, 2025
 - [I use arch, btw](https://marshallku.com/chat/i-use-arch-btw/) - Nov 8, 2025
 - [250930 장애 대응](https://marshallku.com/dev/250930-outage/) - Sep 30, 2025
-- [Plasmo 개발 환경에서 Next.js 앱 망가뜨리는 문제 해결하기](https://marshallku.com/dev/fix-plasmo/) - Sep 17, 2025
 
 <!-- Blog-Post -->
 
